@@ -1,0 +1,9 @@
+[submodule "jhipster-msa-gateway"]
+	path = jhipster-msa-gateway
+	url = https://github.com/bemonee/jhipster-msa-gateway
+[submodule "jhipster-msa-uaa"]
+	path = jhipster-msa-uaa
+	url = https://github.com/bemonee/jhipster-msa-uaa
+[submodule "jhipster-msa-sample-microservice"]
+	path = jhipster-msa-sample-microservice
+	url = https://github.com/bemonee/jhipster-msa-sample-microservice
